@@ -29,7 +29,7 @@ This project is a Power BI dashboard designed to analyze bank loan data, includi
 -Data Cleaning
 
 ## 📷Dashboard
-![Dashboard](image/Bank Loan Analysis dashboard image.png)
+![Dashboard](image/Bank_Loan_Analysis.png)
 
 ## 👩🏻‍💻Author
 **Nency Purohit**
